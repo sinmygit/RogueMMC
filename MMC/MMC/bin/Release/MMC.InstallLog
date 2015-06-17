@@ -1,0 +1,69 @@
+﻿Installing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\MMC.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\MMC.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\MMC.InstallLog
+Rolling back assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\MMC.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\MMC.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\MMC.InstallLog
+An exception occurred during the Rollback phase of the Microsoft.ManagementConsole.Samples.InstallUtilSupport installer.
+System.ArgumentException: The savedState dictionary does not contain the expected values and might have been corrupted.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
+Committing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
+Installing assembly 'F:\SharpDevelop Projects\mmc\mmc\bin\Release\MMC.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\mmc\mmc\bin\Release\MMC.dll
+   logfile = F:\SharpDevelop Projects\mmc\mmc\bin\Release\MMC.InstallLog
+Rolling back assembly 'F:\SharpDevelop Projects\mmc\mmc\bin\Release\MMC.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\mmc\mmc\bin\Release\MMC.dll
+   logfile = F:\SharpDevelop Projects\mmc\mmc\bin\Release\MMC.InstallLog
+An exception occurred during the Rollback phase of the Microsoft.ManagementConsole.Samples.InstallUtilSupport installer.
+System.ArgumentException: The savedState dictionary does not contain the expected values and might have been corrupted.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
+Rolling back assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
+An exception occurred during the Rollback phase of the Microsoft.ManagementConsole.Samples.InstallUtilSupport installer.
+System.ArgumentException: The savedState dictionary does not contain the expected values and might have been corrupted.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
+Committing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
+Installing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
+Committing assembly 'F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.dll
+   logfile = F:\SharpDevelop Projects\MMC\MMC\bin\Release\mmc.InstallLog
