@@ -6,4 +6,4 @@ Execute Shellcode And Other Goodies From MMC
 #Reference: 
 https://msdn.microsoft.com/en-us/library/ms692759(v=vs.85).aspx
 
-#Start MMC using "mmc /32"
+##Start MMC using "mmc /32"
